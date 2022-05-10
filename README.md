@@ -64,9 +64,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Project Link
 
-[Portfolio Repository](https://github.com/ZacharyJSwatfigure/Gym-Bunny)
+[Portfolio Repository](https://github.com/nparker80/np_portfolio)
 <br>
-[Deployed Application](https://gymbunny1000.herokuapp.com/)
+[Deployed Application](https://najlaparker.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License 
@@ -95,13 +95,13 @@ Najla Parker - [![GitHub][github-shield]][github-url-naj]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/nparker80/MouseQuest.svg?style=for-the-badge
-[contributors-url]: https://github.com/nparker80/MouseQuest/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nparker80/MouseQuest.svg?style=for-the-badge
-[forks-url]: https://github.com/nparker80/MouseQuest/network/members
-[issues-shield]: https://img.shields.io/github/issues/nparker80/MouseQuest.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/nparker80/np_portfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/nparker80/np_portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nparker80/np_portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/nparker80/np_portfolio/network/members
+[issues-shield]: https://img.shields.io/github/issues/nparker80/np_portfolio.svg?style=for-the-badge
 [issues-url]: https://github.com/nparker80/np_portfolio/issues
-[license-shield]: https://img.shields.io/github/license/nparker80/MouseQuest.svg?style=for-the-badge
-[license-url]: https://github.com/nparker80/MouseQuest/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/nparker80/np_portfolio.svg?style=for-the-badge
+[license-url]: https://github.com/nparker80/np_portfolio/blob/master/LICENSE.txt
 [github-shield]: https://img.shields.io/badge/-Github-blueviolet.svg?style=for-the-badge&logo=Github&colorB=555
 [github-url-naj]: https://github.com/nparker80/np_portfolio
