@@ -100,8 +100,8 @@ Najla Parker - [![GitHub][github-shield]][github-url-naj]
 [forks-shield]: https://img.shields.io/github/forks/nparker80/MouseQuest.svg?style=for-the-badge
 [forks-url]: https://github.com/nparker80/MouseQuest/network/members
 [issues-shield]: https://img.shields.io/github/issues/nparker80/MouseQuest.svg?style=for-the-badge
-[issues-url]: https://github.com/nparker80/MouseQuest/issues
+[issues-url]: https://github.com/nparker80/np_portfolio/issues
 [license-shield]: https://img.shields.io/github/license/nparker80/MouseQuest.svg?style=for-the-badge
 [license-url]: https://github.com/nparker80/MouseQuest/blob/master/LICENSE.txt
 [github-shield]: https://img.shields.io/badge/-Github-blueviolet.svg?style=for-the-badge&logo=Github&colorB=555
-[github-url-naj]: https://github.com/nparker80
+[github-url-naj]: https://github.com/nparker80/np_portfolio
