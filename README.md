@@ -12,7 +12,7 @@
 * [License](#license)
 * [Credits](#credits)
 * [Questions](#questions)
-* [Find Us](#find-us)
+* [Find Me](#find-me)
 
 ## Description:
 I created this portfolio to get exposure to a different toolset and increase my React knowledge. This was a code along exercise using this [Video Tutorial](https://youtu.be/3HNyXCPDQ7Q)
@@ -86,7 +86,7 @@ Najla Parker - najla08@me.com [![GitHub][github-shield]][github-url-naj]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Find Us
+## Find Me
 
 Najla Parker - [![GitHub][github-shield]][github-url-naj]
 
